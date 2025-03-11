@@ -80,8 +80,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jMCkMN1Kx_JotpDx-fE0-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="395" y="618" width="50" height="30" as="geometry" />
+        <mxCell id="jMCkMN1Kx_JotpDx-fE0-19" value="不通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="625" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
