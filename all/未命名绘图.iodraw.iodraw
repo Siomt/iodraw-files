@@ -8,7 +8,7 @@
           <mxGeometry x="200" y="57" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1esC2-XD119z0c7Wd0Yl-3" value="样衣开版" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="200" y="321" width="120" height="52" as="geometry" />
+          <mxGeometry x="200" y="320" width="120" height="53" as="geometry" />
         </mxCell>
         <mxCell id="1esC2-XD119z0c7Wd0Yl-4" value="申请开版" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="200" y="166" width="120" height="60" as="geometry" />
@@ -19,6 +19,7 @@
             <mxPoint x="460" y="290" as="targetPoint" />
             <Array as="points">
               <mxPoint x="260" y="320" />
+              <mxPoint x="260" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
