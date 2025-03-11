@@ -49,7 +49,7 @@
             <mxPoint x="440" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jMCkMN1Kx_JotpDx-fE0-5" value="厂长审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jMCkMN1Kx_JotpDx-fE0-5" value="样衣审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="195" y="840" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jMCkMN1Kx_JotpDx-fE0-7" value="物料入库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
