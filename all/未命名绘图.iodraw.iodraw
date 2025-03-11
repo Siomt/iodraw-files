@@ -70,6 +70,9 @@
         <mxCell id="jMCkMN1Kx_JotpDx-fE0-10" value="通过" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="jMCkMN1Kx_JotpDx-fE0-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jMCkMN1Kx_JotpDx-fE0-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="440" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
