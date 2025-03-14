@@ -162,7 +162,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eXheX_QaLKID2AUzA1Mh-18" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eXheX_QaLKID2AUzA1Mh-18" value="同意全尺码" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
