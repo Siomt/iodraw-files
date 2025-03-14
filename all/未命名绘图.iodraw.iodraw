@@ -102,11 +102,13 @@
         <mxCell id="eXheX_QaLKID2AUzA1Mh-3" value="客户确认" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eXheX_QaLKID2AUzA1Mh-4" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eXheX_QaLKID2AUzA1Mh-4" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jMCkMN1Kx_JotpDx-fE0-2">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="410" y="590" as="sourcePoint" />
             <mxPoint x="490" y="590" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="450" y="590" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
