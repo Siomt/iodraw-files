@@ -156,7 +156,7 @@
         <mxCell id="eXheX_QaLKID2AUzA1Mh-18" value="同意全尺码" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="150" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eXheX_QaLKID2AUzA1Mh-19" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eXheX_QaLKID2AUzA1Mh-19" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eXheX_QaLKID2AUzA1Mh-15" target="1esC2-XD119z0c7Wd0Yl-4">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="510" y="350" as="sourcePoint" />
             <mxPoint x="320" y="240" as="targetPoint" />
