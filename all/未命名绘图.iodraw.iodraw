@@ -128,6 +128,13 @@
         <mxCell id="eXheX_QaLKID2AUzA1Mh-8" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="195" y="1109" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eXheX_QaLKID2AUzA1Mh-9" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="310" y="1070" as="sourcePoint" />
+            <mxPoint x="390" y="1070" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
