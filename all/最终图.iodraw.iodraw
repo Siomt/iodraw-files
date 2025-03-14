@@ -107,15 +107,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eXheX_QaLKID2AUzA1Mh-10" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="eXheX_QaLKID2AUzA1Mh-0">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="260" y="140" as="sourcePoint" />
-            <mxPoint x="150" y="100" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="100" y="140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="eXheX_QaLKID2AUzA1Mh-11" value="添加布料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="340" width="120" height="60" as="geometry" />
         </mxCell>
