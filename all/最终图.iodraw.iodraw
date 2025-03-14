@@ -62,10 +62,10 @@
         <mxCell id="jMCkMN1Kx_JotpDx-fE0-10" value="通过" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="jMCkMN1Kx_JotpDx-fE0-9" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jMCkMN1Kx_JotpDx-fE0-18" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1.017;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jMCkMN1Kx_JotpDx-fE0-5" target="1esC2-XD119z0c7Wd0Yl-3" edge="1">
+        <mxCell id="jMCkMN1Kx_JotpDx-fE0-18" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jMCkMN1Kx_JotpDx-fE0-5" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="390" y="970" as="sourcePoint" />
-            <mxPoint x="400" y="240" as="targetPoint" />
+            <mxPoint x="750" y="20" as="targetPoint" />
             <Array as="points">
               <mxPoint x="990" y="10" />
               <mxPoint x="870" y="20" />
@@ -83,13 +83,6 @@
         </mxCell>
         <mxCell id="jMCkMN1Kx_JotpDx-fE0-25" value="样版信息" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="jMCkMN1Kx_JotpDx-fE0-24" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jMCkMN1Kx_JotpDx-fE0-26" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="jMCkMN1Kx_JotpDx-fE0-0" edge="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="400" y="555" as="sourcePoint" />
-            <mxPoint x="470" y="570" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="eXheX_QaLKID2AUzA1Mh-0" value="申请布料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
