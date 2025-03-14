@@ -99,6 +99,9 @@
         <mxCell id="eXheX_QaLKID2AUzA1Mh-2" value="物流寄样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="680" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eXheX_QaLKID2AUzA1Mh-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
