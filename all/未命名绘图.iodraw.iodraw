@@ -99,30 +99,11 @@
         <mxCell id="eXheX_QaLKID2AUzA1Mh-2" value="物流寄样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eXheX_QaLKID2AUzA1Mh-3" value="客户确认" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="eXheX_QaLKID2AUzA1Mh-4" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jMCkMN1Kx_JotpDx-fE0-2" target="eXheX_QaLKID2AUzA1Mh-2">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="410" y="590" as="sourcePoint" />
             <mxPoint x="490" y="590" as="targetPoint" />
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eXheX_QaLKID2AUzA1Mh-5" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eXheX_QaLKID2AUzA1Mh-2" target="eXheX_QaLKID2AUzA1Mh-3">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="580" y="780" as="sourcePoint" />
-            <mxPoint x="660" y="780" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eXheX_QaLKID2AUzA1Mh-7" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eXheX_QaLKID2AUzA1Mh-3" target="jMCkMN1Kx_JotpDx-fE0-7">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="710" y="810" as="sourcePoint" />
-            <mxPoint x="720" y="1030" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="510" y="1030" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="eXheX_QaLKID2AUzA1Mh-8" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
