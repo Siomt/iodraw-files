@@ -48,7 +48,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jMCkMN1Kx_JotpDx-fE0-5" value="样版审核" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="195" y="840" width="130" height="80" as="geometry" />
+          <mxGeometry x="870" y="680" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jMCkMN1Kx_JotpDx-fE0-7" value="样版入库" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="200" y="1000" width="120" height="60" as="geometry" />
