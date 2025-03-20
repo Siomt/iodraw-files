@@ -178,6 +178,9 @@
         <mxCell id="eXheX_QaLKID2AUzA1Mh-29" value="不通过" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1020" y="132" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wM40CEmp3VH-tDP9Vq5r-0" value="申请布料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="82" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
