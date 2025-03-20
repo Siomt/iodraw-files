@@ -188,11 +188,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wM40CEmp3VH-tDP9Vq5r-3" value="订单导入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="790" y="539" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="wM40CEmp3VH-tDP9Vq5r-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="550" width="80" height="80" as="geometry" />
+          <mxGeometry x="780" y="528" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
