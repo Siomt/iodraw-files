@@ -209,6 +209,9 @@
         <mxCell id="wM40CEmp3VH-tDP9Vq5r-11" value="是" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="wM40CEmp3VH-tDP9Vq5r-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wM40CEmp3VH-tDP9Vq5r-12" value="订单导入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="621" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
