@@ -194,6 +194,11 @@
             <mxPoint x="790" y="602" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wM40CEmp3VH-tDP9Vq5r-20" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wM40CEmp3VH-tDP9Vq5r-6">
+          <mxGeometry x="-0.0488" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wM40CEmp3VH-tDP9Vq5r-8" value="删除订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="460" width="120" height="60" as="geometry" />
         </mxCell>
@@ -236,9 +241,6 @@
         </mxCell>
         <mxCell id="wM40CEmp3VH-tDP9Vq5r-17" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="960" y="608" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wM40CEmp3VH-tDP9Vq5r-18" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="970" y="618" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
