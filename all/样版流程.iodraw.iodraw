@@ -69,9 +69,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jMCkMN1Kx_JotpDx-fE0-19" value="不通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="330" y="858" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="jMCkMN1Kx_JotpDx-fE0-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="jMCkMN1Kx_JotpDx-fE0-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1130" y="246" as="sourcePoint" />
