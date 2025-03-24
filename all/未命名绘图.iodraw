@@ -19,7 +19,14 @@
         <mxCell id="B6nybClam5cu1OxiRxrf-5" value="下载打印" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="264" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B6nybClam5cu1OxiRxrf-6" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="B6nybClam5cu1OxiRxrf-6" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B6nybClam5cu1OxiRxrf-1" target="B6nybClam5cu1OxiRxrf-3">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="560" y="150" as="sourcePoint" />
+            <mxPoint x="640" y="150" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6nybClam5cu1OxiRxrf-7" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="840" y="390" as="sourcePoint" />
             <mxPoint x="920" y="390" as="targetPoint" />
