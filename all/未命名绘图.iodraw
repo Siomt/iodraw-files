@@ -16,7 +16,7 @@
         <mxCell id="B6nybClam5cu1OxiRxrf-4" value="订单分配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B6nybClam5cu1OxiRxrf-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B6nybClam5cu1OxiRxrf-5" value="下载打印" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
