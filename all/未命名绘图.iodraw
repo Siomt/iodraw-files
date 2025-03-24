@@ -116,12 +116,17 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B6nybClam5cu1OxiRxrf-25" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.558;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="B6nybClam5cu1OxiRxrf-14">
+        <mxCell id="B6nybClam5cu1OxiRxrf-25" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.558;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B6nybClam5cu1OxiRxrf-14" target="B6nybClam5cu1OxiRxrf-22">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1910" y="270" as="sourcePoint" />
             <mxPoint x="1990" y="270" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="1867" y="230" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="B6nybClam5cu1OxiRxrf-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
