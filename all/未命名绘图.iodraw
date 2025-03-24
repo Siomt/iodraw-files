@@ -48,7 +48,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B6nybClam5cu1OxiRxrf-10" value="热转印" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="1380" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
