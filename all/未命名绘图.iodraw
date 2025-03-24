@@ -57,7 +57,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B6nybClam5cu1OxiRxrf-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B6nybClam5cu1OxiRxrf-12" value="激光切片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
