@@ -8,13 +8,13 @@
           <mxGeometry x="260" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B6nybClam5cu1OxiRxrf-2" value="上传生产图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B6nybClam5cu1OxiRxrf-3" value="任务分发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B6nybClam5cu1OxiRxrf-4" value="订单分配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="1010" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B6nybClam5cu1OxiRxrf-5" value="下载打印" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="570" width="120" height="60" as="geometry" />
