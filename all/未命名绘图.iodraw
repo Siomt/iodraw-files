@@ -58,7 +58,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B6nybClam5cu1OxiRxrf-12" value="激光切片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="1580" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B6nybClam5cu1OxiRxrf-13" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="1550" y="230" as="sourcePoint" />
+            <mxPoint x="1630" y="230" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
