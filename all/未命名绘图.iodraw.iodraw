@@ -17,7 +17,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y-f_dgt5WF16YSsgBHQn-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="y-f_dgt5WF16YSsgBHQn-2" value="打印生产图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="155" y="310" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
